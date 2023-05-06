@@ -31,3 +31,12 @@ footer {
     box-sizing: border-box;
     background-color: gray;
 }
+
+header {
+    height: 400px;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: silver;
+    display: flex;
+    
+}
